@@ -1,1 +1,1 @@
-web: gunicon crud.wsgi --log-file - 
+web: gunicon crud.wsgi --log-file -
