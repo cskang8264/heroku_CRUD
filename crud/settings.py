@@ -126,7 +126,7 @@ STATICFILES_DIRS = [
 os.path.join(BASE_DIR, 'blog',
 'static') ]
 STATIC_ROOT = os.path.join(BASE_DIR,
-'static')
+'staticfiles')
 
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
